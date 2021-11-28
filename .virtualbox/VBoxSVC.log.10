@@ -1,0 +1,150 @@
+00:00:00.001420 main     VirtualBox COM Server 6.0.0 r127566 win.amd64 (Dec 18 2018 12:01:23) release log
+00:00:00.001425 main     Log opened 2019-02-13T18:41:34.225273200Z
+00:00:00.001427 main     Build Type: release
+00:00:00.001437 main     OS Product: Windows 10
+00:00:00.001440 main     OS Release: 10.0.15063
+00:00:00.001442 main     OS Service Pack: 
+00:00:00.041538 main     DMI Product Name: 3448CTO
+00:00:00.064139 main     DMI Product Version: ThinkPad X1 Carbon
+00:00:00.064164 main     Host RAM: 7888MB (7.7GB) total, 2764MB (2.6GB) available
+00:00:00.064185 main     Executable: C:\Program Files\Oracle\VirtualBox\VBoxSVC.exe
+00:00:00.064187 main     Process ID: 5044
+00:00:00.064189 main     Package type: WINDOWS_64BITS_GENERIC
+00:00:00.179163          VirtualBox: object creation starts
+00:00:00.179540          Home directory: 'C:\Users\Eduandy\.VirtualBox'
+00:00:00.179688          Installed Drivers:
+00:00:00.187844            C:\Windows\system32\DRIVERS\VBoxNetLwf.sys (Version: 6.0.0.27566)
+00:00:00.189243            C:\Windows\system32\DRIVERS\VBoxUSBMon.sys (Version: 6.0.0.27566)
+00:00:00.190372            C:\Windows\system32\DRIVERS\VBoxDrv.sys (Version: 6.0.0.27566)
+00:00:00.191705            C:\Windows\system32\DRIVERS\VBoxNetAdp6.sys (Version: 6.0.0.27566)
+00:00:00.197840          Loading settings file "C:\Users\Eduandy\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.311321          Getting USB descriptor failed with error 31
+00:00:00.376381          USB: Unknown USB device detected (idVendor: 0x04f2, idProduct: 0xb315)
+00:00:00.580275          HostDnsMonitor::updateInfo
+00:00:00.580362          HostDnsMonitor: old information
+00:00:00.580366            no server entries
+00:00:00.580369            no domain set
+00:00:00.580371            no search string entries
+00:00:00.580373          HostDnsMonitor: new information
+00:00:00.580375            server 1: 10.0.0.254
+00:00:00.580378            no domain set
+00:00:00.580379            no search string entries
+00:00:00.696598          VD: VDInit finished with VINF_SUCCESS
+00:00:00.700822          Loading settings file "C:\Users\Eduandy\VirtualBox VMs\ubuntu\ubuntu.vbox" with version "1.16-windows"
+00:00:00.704369          VirtualBox: object created
+00:00:04.232786          Saving settings file "C:\Users\Eduandy\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:04.256603          Saving settings file "C:\Users\Eduandy\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:10.902174          Saving settings file "C:\Users\Eduandy\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:25.583114 createBase Saving settings file "C:\Users\Eduandy\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:26.146726          Saving settings file "C:\Users\Eduandy\VirtualBox VMs\UBUNTU\UBUNTU.vbox" with version "1.16-windows"
+00:00:26.186139          Saving settings file "C:\Users\Eduandy\VirtualBox VMs\UBUNTU\UBUNTU.vbox" with version "1.16-windows"
+00:00:26.202565          Saving settings file "C:\Users\Eduandy\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:26.228271          Saving settings file "C:\Users\Eduandy\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:26.249394          Saving settings file "C:\Users\Eduandy\VirtualBox VMs\UBUNTU\UBUNTU.vbox" with version "1.16-windows"
+00:00:26.292588          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={5047460a-265d-4538-b23e-ddba5fb84976} aComponent={MachineWrap} aText={This machine does not have any snapshots}, preserve=false aResultDetail=0
+00:00:35.140231          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={70401eef-c8e9-466b-9660-45cb3e9979e4} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
+00:00:35.507439          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={5047460a-265d-4538-b23e-ddba5fb84976} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:00:50.133668          Saving settings file "C:\Users\Eduandy\VirtualBox VMs\UBUNTU\UBUNTU.vbox" with version "1.16-windows"
+00:03:54.813281          Saving settings file "C:\Users\Eduandy\VirtualBox VMs\UBUNTU\UBUNTU.vbox" with version "1.16-windows"
+00:03:54.866739          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={5047460a-265d-4538-b23e-ddba5fb84976} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:04:52.474109          Saving settings file "C:\Users\Eduandy\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:08:00.752512          Saving settings file "C:\Users\Eduandy\VirtualBox VMs\UBUNTU\UBUNTU.vbox" with version "1.16-windows"
+00:08:01.013673          Saving settings file "C:\Users\Eduandy\VirtualBox VMs\UBUNTU\UBUNTU.vbox" with version "1.16-windows"
+00:08:01.741263          Saving settings file "C:\Users\Eduandy\VirtualBox VMs\UBUNTU\UBUNTU.vbox" with version "1.16-windows"
+00:08:01.786208          Saving settings file "C:\Users\Eduandy\VirtualBox VMs\UBUNTU\UBUNTU.vbox" with version "1.16-windows"
+00:08:01.852373          Saving settings file "C:\Users\Eduandy\VirtualBox VMs\UBUNTU\UBUNTU.vbox" with version "1.16-windows"
+00:08:10.270371          Saving settings file "C:\Users\Eduandy\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:08:10.292052          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:08:24.885588 createBase Saving settings file "C:\Users\Eduandy\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:08:25.452191          Saving settings file "C:\Users\Eduandy\VirtualBox VMs\ubuntu\ubuntu.vbox" with version "1.16-windows"
+00:08:25.492520          Saving settings file "C:\Users\Eduandy\VirtualBox VMs\ubuntu\ubuntu.vbox" with version "1.16-windows"
+00:08:25.511605          Saving settings file "C:\Users\Eduandy\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:08:25.542352          Saving settings file "C:\Users\Eduandy\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:08:25.566864          Saving settings file "C:\Users\Eduandy\VirtualBox VMs\ubuntu\ubuntu.vbox" with version "1.16-windows"
+00:08:25.615255          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={5047460a-265d-4538-b23e-ddba5fb84976} aComponent={MachineWrap} aText={This machine does not have any snapshots}, preserve=false aResultDetail=0
+00:08:38.484740          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={70401eef-c8e9-466b-9660-45cb3e9979e4} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
+00:08:38.823293          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={5047460a-265d-4538-b23e-ddba5fb84976} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:08:48.785144          Saving settings file "C:\Users\Eduandy\VirtualBox VMs\ubuntu\ubuntu.vbox" with version "1.16-windows"
+00:14:52.329457 dns-monitor HostDnsMonitor::updateInfo
+00:14:52.329731 dns-monitor HostDnsMonitor: old information
+00:14:52.329745 dns-monitor   server 1: 10.0.0.254
+00:14:52.329754 dns-monitor   no domain set
+00:14:52.329761 dns-monitor   no search string entries
+00:14:52.329769 dns-monitor HostDnsMonitor: new information
+00:14:52.329775 dns-monitor   server 1: 192.168.137.1
+00:14:52.329783 dns-monitor   domain: mshome.net
+00:14:52.329790 dns-monitor   no search string entries
+00:18:31.116548          Saving settings file "C:\Users\Eduandy\VirtualBox VMs\ubuntu\ubuntu.vbox" with version "1.16-windows"
+00:19:52.764563 dns-monitor HostDnsMonitor::updateInfo
+00:19:52.764647 dns-monitor HostDnsMonitor: unchanged
+00:24:52.809555 dns-monitor HostDnsMonitor::updateInfo
+00:24:52.809627 dns-monitor HostDnsMonitor: unchanged
+00:29:52.843572 dns-monitor HostDnsMonitor::updateInfo
+00:29:52.843747 dns-monitor HostDnsMonitor: unchanged
+00:34:52.879951 dns-monitor HostDnsMonitor::updateInfo
+00:34:52.880028 dns-monitor HostDnsMonitor: unchanged
+00:39:52.920592 dns-monitor HostDnsMonitor::updateInfo
+00:39:52.920668 dns-monitor HostDnsMonitor: unchanged
+00:44:52.949057 dns-monitor HostDnsMonitor::updateInfo
+00:44:52.949116 dns-monitor HostDnsMonitor: unchanged
+00:49:52.974256 dns-monitor HostDnsMonitor::updateInfo
+00:49:52.974288 dns-monitor HostDnsMonitor: unchanged
+00:54:53.014971 dns-monitor HostDnsMonitor::updateInfo
+00:54:53.015001 dns-monitor HostDnsMonitor: unchanged
+00:59:53.068741 dns-monitor HostDnsMonitor::updateInfo
+00:59:53.068951 dns-monitor HostDnsMonitor: unchanged
+01:04:53.109152 dns-monitor HostDnsMonitor::updateInfo
+01:04:53.109229 dns-monitor HostDnsMonitor: unchanged
+01:09:53.152131 dns-monitor HostDnsMonitor::updateInfo
+01:09:53.152206 dns-monitor HostDnsMonitor: unchanged
+01:14:53.197292 dns-monitor HostDnsMonitor::updateInfo
+01:14:53.197362 dns-monitor HostDnsMonitor: unchanged
+01:19:53.235098 dns-monitor HostDnsMonitor::updateInfo
+01:19:53.235174 dns-monitor HostDnsMonitor: unchanged
+01:24:53.277257 dns-monitor HostDnsMonitor::updateInfo
+01:24:53.277331 dns-monitor HostDnsMonitor: unchanged
+01:29:53.317637 dns-monitor HostDnsMonitor::updateInfo
+01:29:53.317847 dns-monitor HostDnsMonitor: unchanged
+01:32:58.124689 USBPROXY Getting USB descriptor failed with error 31
+01:32:59.578101 MainPower Host suspending: Paused 1 VMs
+02:33:04.378871 MainPower Host resumed: Resumed 1 VMs
+02:33:06.366061 dns-monitor HostDnsMonitor::updateInfo
+02:33:06.366116 dns-monitor HostDnsMonitor: old information
+02:33:06.366140 dns-monitor   server 1: 192.168.137.1
+02:33:06.366151 dns-monitor   domain: mshome.net
+02:33:06.366159 dns-monitor   no search string entries
+02:33:06.366167 dns-monitor HostDnsMonitor: new information
+02:33:06.366175 dns-monitor   server 1: 8.8.8.8
+02:33:06.366183 dns-monitor   server 2: 8.8.4.4
+02:33:06.366191 dns-monitor   no domain set
+02:33:06.366198 dns-monitor   no search string entries
+02:33:17.617417 USBPROXY Getting USB descriptor failed with error 31
+03:22:55.613652 USBPROXY Getting USB descriptor failed with error 31
+03:22:57.886176 MainPower Host suspending: Paused 1 VMs
+04:06:10.069177 MainPower Host resumed: Resumed 1 VMs
+04:06:12.567157 dns-monitor HostDnsMonitor::updateInfo
+04:06:12.567196 dns-monitor HostDnsMonitor: unchanged
+04:06:24.626125 USBPROXY Getting USB descriptor failed with error 31
+04:06:30.234914 USBPROXY Getting USB descriptor failed with error 31
+04:06:30.235080 USBPROXY Getting USB descriptor failed with error 31
+04:09:08.497846 USBPROXY Getting USB descriptor failed with error 31
+04:09:08.610787 USBPROXY Getting USB descriptor failed with error 31
+04:09:09.902972 USBPROXY Getting USB descriptor failed with error 31
+04:09:14.353068 USBPROXY Getting USB descriptor failed with error 31
+04:09:16.324857 MainPower Host suspending: Paused 1 VMs
+04:50:32.012495 MainPower Host resumed: Resumed 1 VMs
+04:50:34.028700 dns-monitor HostDnsMonitor::updateInfo
+04:50:34.028738 dns-monitor HostDnsMonitor: unchanged
+04:50:37.320750 USBPROXY Getting USB descriptor failed with error 31
+04:50:37.320858 USBPROXY Getting USB descriptor failed with error 31
+05:11:08.695628 USBPROXY Getting USB descriptor failed with error 31
+05:11:11.417600 USBPROXY Getting USB descriptor failed with error 31
+05:11:11.418278 USBPROXY Getting USB descriptor failed with error 31
+05:11:11.936678 USBPROXY Getting USB descriptor failed with error 31
+05:11:11.936837 USBPROXY Getting USB descriptor failed with error 31
+05:13:06.742599 USBPROXY Getting USB descriptor failed with error 31
+05:13:06.853133 USBPROXY Getting USB descriptor failed with error 31
+05:13:07.812791 USBPROXY Getting USB descriptor failed with error 31
+05:14:26.233895          Saving settings file "C:\Users\Eduandy\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+05:14:26.264227          Saving settings file "C:\Users\Eduandy\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+05:14:27.639917 USBPROXY Getting USB descriptor failed with error 31

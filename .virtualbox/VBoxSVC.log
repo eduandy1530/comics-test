@@ -1,0 +1,84 @@
+103:14:47.361202 USBPROXY Log continuation - Log started 2019-03-26T00:29:00.045685200Z
+103:14:47.361772 USBPROXY Getting USB descriptor failed with error 31
+103:15:32.386702 USBPROXY Getting USB descriptor failed with error 31
+103:15:32.387310 USBPROXY Getting USB descriptor failed with error 31
+103:15:32.387826 USBPROXY Getting USB descriptor failed with error 31
+106:53:36.997644 dns-monitor HostDnsMonitor::updateInfo
+106:53:36.998092 dns-monitor HostDnsMonitor: unchanged
+110:59:42.507647 dns-monitor HostDnsMonitor::updateInfo
+110:59:42.508159 dns-monitor HostDnsMonitor: old information
+110:59:42.508264 dns-monitor   server 1: 10.0.0.1
+110:59:42.508336 dns-monitor   no domain set
+110:59:42.508398 dns-monitor   no search string entries
+110:59:42.508877 dns-monitor HostDnsMonitor: new information
+110:59:42.508911 dns-monitor   no server entries
+110:59:42.508933 dns-monitor   no domain set
+110:59:42.508954 dns-monitor   no search string entries
+110:59:45.768500 dns-monitor HostDnsMonitor::updateInfo
+110:59:45.768531 dns-monitor HostDnsMonitor: old information
+110:59:45.768541 dns-monitor   no server entries
+110:59:45.768549 dns-monitor   no domain set
+110:59:45.768557 dns-monitor   no search string entries
+110:59:45.768565 dns-monitor HostDnsMonitor: new information
+110:59:45.768572 dns-monitor   server 1: 192.168.43.1
+110:59:45.768581 dns-monitor   no domain set
+110:59:45.768588 dns-monitor   no search string entries
+111:07:54.258130 dns-monitor HostDnsMonitor::updateInfo
+111:07:54.258296 dns-monitor HostDnsMonitor: old information
+111:07:54.258330 dns-monitor   server 1: 192.168.43.1
+111:07:54.258361 dns-monitor   no domain set
+111:07:54.258387 dns-monitor   no search string entries
+111:07:54.258412 dns-monitor HostDnsMonitor: new information
+111:07:54.258436 dns-monitor   no server entries
+111:07:54.258462 dns-monitor   no domain set
+111:07:54.258486 dns-monitor   no search string entries
+111:07:56.639905 dns-monitor HostDnsMonitor::updateInfo
+111:07:56.639984 dns-monitor HostDnsMonitor: old information
+111:07:56.640015 dns-monitor   no server entries
+111:07:56.640043 dns-monitor   no domain set
+111:07:56.640068 dns-monitor   no search string entries
+111:07:56.640094 dns-monitor HostDnsMonitor: new information
+111:07:56.640119 dns-monitor   server 1: 192.168.43.1
+111:07:56.640146 dns-monitor   no domain set
+111:07:56.640171 dns-monitor   no search string entries
+111:09:42.763697          Saving settings file "C:\Users\Eduandy\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+111:09:42.806860          Saving settings file "C:\Users\Eduandy\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+111:09:42.890229          Saving settings file "C:\Users\Eduandy\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+111:09:42.914708          Saving settings file "C:\Users\Eduandy\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+111:13:14.570422 dns-monitor HostDnsMonitor::updateInfo
+111:13:14.570508 dns-monitor HostDnsMonitor: unchanged
+111:42:24.375430 MainPower Host suspending: Paused 1 VMs
+115:35:34.511483 MainPower Host resumed: Resumed 1 VMs
+115:35:36.515070 dns-monitor HostDnsMonitor::updateInfo
+115:35:36.515102 dns-monitor HostDnsMonitor: unchanged
+115:39:36.947966 dns-monitor HostDnsMonitor::updateInfo
+115:39:36.948044 dns-monitor HostDnsMonitor: old information
+115:39:36.948059 dns-monitor   server 1: 192.168.43.1
+115:39:36.948072 dns-monitor   no domain set
+115:39:36.948083 dns-monitor   no search string entries
+115:39:36.948095 dns-monitor HostDnsMonitor: new information
+115:39:36.948105 dns-monitor   no server entries
+115:39:36.948117 dns-monitor   no domain set
+115:39:36.948127 dns-monitor   no search string entries
+115:39:39.694765 dns-monitor HostDnsMonitor::updateInfo
+115:39:39.694836 dns-monitor HostDnsMonitor: old information
+115:39:39.694867 dns-monitor   no server entries
+115:39:39.694895 dns-monitor   no domain set
+115:39:39.694923 dns-monitor   no search string entries
+115:39:39.694950 dns-monitor HostDnsMonitor: new information
+115:39:39.695170 dns-monitor   server 1: 10.0.0.1
+115:39:39.695222 dns-monitor   no domain set
+115:39:39.695255 dns-monitor   no search string entries
+115:50:16.257880 dns-monitor HostDnsMonitor::updateInfo
+115:50:16.257963 dns-monitor HostDnsMonitor: unchanged
+115:50:47.745747 dns-monitor HostDnsMonitor::updateInfo
+115:50:47.745825 dns-monitor HostDnsMonitor: unchanged
+115:50:58.525889 dns-monitor HostDnsMonitor::updateInfo
+115:50:58.525922 dns-monitor HostDnsMonitor: unchanged
+115:52:52.696750 dns-monitor HostDnsMonitor::updateInfo
+115:52:52.696824 dns-monitor HostDnsMonitor: unchanged
+115:54:09.224101 dns-monitor HostDnsMonitor::updateInfo
+115:54:09.224181 dns-monitor HostDnsMonitor: unchanged
+116:33:29.659354 USBPROXY Getting USB descriptor failed with error 31
+116:33:29.659604 USBPROXY Getting USB descriptor failed with error 31
+116:33:29.659753 USBPROXY Getting USB descriptor failed with error 31
